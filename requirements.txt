@@ -1,2 +1,5 @@
+dask[dataframe]==2024.8.2  # for parallel and distributed computing.
 jupyter==1.1.1
+matplotlib==3.9.2
 pandas==2.2.2
+scikit-learn==1.5.2
