@@ -1,19 +1,4 @@
-"
-","id
-","year_month
-","value_kwh
-mean","value_kwh
-std","value_kwh
-min","value_kwh
-max","demand_change_kwh
-mean","demand_change_kwh
-std","demand_change_kwh
-max","demand_change_kwh
-smooth_max","demand_change_kwh
-max_savgol","demand_change_kwh
-min","demand_change_kwh
-smooth_min","demand_change_kwh
-min_savgol"
+,id,year_month,value_kwh mean,value_kwh std,value_kwh min,value_kwh max,demand_change_kwh mean,demand_change_kwh std,demand_change_kwh max,demand_change_kwh smooth_max,demand_change_kwh max_savgol,demand_change_kwh min,demand_change_kwh smooth_min,demand_change_kwh min_savgol
 0,002da9d5719ff5fb0f53307ace9bc9e7,2023-01,0.763014,0.772785,0.020,3.532,0.000792,0.878937,3.316,1.7048,2.433829,-2.951,-1.42180,-2.078229
 1,002da9d5719ff5fb0f53307ace9bc9e7,2023-02,0.680193,0.744177,0.000,3.265,-0.000898,0.813475,3.105,1.5224,2.361771,-3.038,-1.43020,-2.174743
 2,002da9d5719ff5fb0f53307ace9bc9e7,2023-03,0.584596,0.705993,0.019,3.145,0.000369,0.785537,2.407,1.4204,2.154514,-3.015,-1.34200,-2.159829
